@@ -1,6 +1,6 @@
 # ultimate-auth-twitter
 
-**Twitter Auth** plugin for [ultimate-seed](https://github.com/pilwon/node-ultimate-seed).
+**Twitter Auth** plugin for [ultimate-seed](https://github.com/pilwon/ultimate-seed).
 
 ## **★ This project is under development ★**
 
